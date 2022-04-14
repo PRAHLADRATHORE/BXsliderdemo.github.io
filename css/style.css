@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slider1{
+    width: 1000px;
+    height: 60vh;
+    margin: 0px auto;
+}
+
+.text{
+    position: absolute;
+    top: 100px;
+    background-color: aliceblue;
+    padding: 10px;
+    font-size: 40px;
+    
+}
